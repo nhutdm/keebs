@@ -1,0 +1,9 @@
+{
+    "maintainer": "Nhut Duong <hello@nhutduong.com>",
+    "manufacturer": "Nhut Duong",
+    "url": "https://nhutduong.com",
+    "development_board": "promicro",
+    "build": {
+        "lto": true
+    }
+}
