@@ -1,6 +1,7 @@
 {
-    "keyboard": "nhutdm/sofle",
+    "keyboard": "nhutdm/sofle/rev1",
     "keymap": "default",
+    "version": 1,
     "layout": "LAYOUT",
     "layers": [
         [
@@ -26,9 +27,9 @@
         ],
         [
             "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   ,                             "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   ,
-            "CG_TOGG"   , "RGB_HUI"   , "RGB_SAI"   , "RGB_VAI"   , "RGB_SPI"   , "RGB_MOD"   ,                             "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   ,
-            "EE_CLR"    , "RGB_HUD"   , "RGB_SAD"   , "RGB_VAD"   , "RGB_SPD"   , "RGB_RMOD"  ,                             "XXXXXXX"   , "KC_VOLD"   , "KC_MUTE"   , "KC_VOLU"   , "XXXXXXX"   , "XXXXXXX"   ,
-            "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "RGB_TOG"   , "RGB_M_P"   , "XXXXXXX"   , "KC_MPRV"   , "KC_MPLY"   , "KC_MNXT"   , "XXXXXXX"   , "XXXXXXX"   ,
+            "CG_TOGG"   , "RM_HUEU"   , "RM_SATU"   , "RM_VALU"   , "UG_SPDU"   , "RM_NEXT"   ,                             "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   ,
+            "EE_CLR"    , "RM_HUED"   , "RM_SATD"   , "RM_VALD"   , "UG_SPDD"   , "UG_PREV"   ,                             "XXXXXXX"   , "KC_VOLD"   , "KC_MUTE"   , "KC_VOLU"   , "XXXXXXX"   , "XXXXXXX"   ,
+            "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "XXXXXXX"   , "RM_TOGG"   , "RGB_M_P"   , "XXXXXXX"   , "KC_MPRV"   , "KC_MPLY"   , "KC_MNXT"   , "XXXXXXX"   , "XXXXXXX"   ,
                                         "_______"   , "_______"   , "_______"   , "_______"   , "_______"   , "_______"   , "_______"   , "_______"   , "_______"   , "_______"
         ]
     ],

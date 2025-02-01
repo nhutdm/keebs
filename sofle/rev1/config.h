@@ -1,4 +1,4 @@
-/* Copyright 2023 Nhut Duong <hello@nhutduong.com>
+/* Copyright 2025 Nhut Duong <hello@nhutduong.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -21,5 +21,3 @@
 
 #define OLED_DISPLAY_128X32
 #define SPLIT_OLED_ENABLE
-
-#define RGB_MATRIX_LED_COUNT 72

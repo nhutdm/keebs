@@ -1,4 +1,4 @@
-/* Copyright 2023 Nhut Duong <hello@nhutduong.com>
+/* Copyright 2025 Nhut Duong <hello@nhutduong.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,7 +16,7 @@
 
 #pragma once
 
-#define RGB_DISABLE_WHEN_USB_SUSPENDED
+#define RGB_MATRIX_SLEEP
 #define RGB_MATRIX_KEYPRESSES
 #define ENABLE_RGB_MATRIX_SOLID_REACTIVE_SIMPLE
 #define ENABLE_RGB_MATRIX_SOLID_SPLASH
